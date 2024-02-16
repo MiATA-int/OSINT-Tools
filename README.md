@@ -1,0 +1,2 @@
+# OSINT tools
+Some tools we found useful @ MiATA [<img src="[https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png](https://static.wixstatic.com/media/47b7c1_091682ef2848437aa1c752f370462b4f~mv2.jpg/v1/fill/w_101,h_105,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/LOGO.jpg)https://static.wixstatic.com/media/47b7c1_091682ef2848437aa1c752f370462b4f~mv2.jpg/v1/fill/w_101,h_105,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/LOGO.jpg" align="right" width="100">](https://miata-int.com)
